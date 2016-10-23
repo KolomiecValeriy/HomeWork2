@@ -6,5 +6,8 @@
             "email": "kolomiec.valeriy@mail.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "jenssegers/date": "^3.2",
+        "spatie/string": "^2.2"
+    }
 }
